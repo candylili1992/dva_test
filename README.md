@@ -14,7 +14,7 @@
 
 ### 本地开发
 
-1、git clone https://github.com/zhengxiuming/dva-react-ant--admin.git
+1、git clone git@github.com:candylili1992/dva_test.git
 
 2、npm install 或 yarn install 
 
